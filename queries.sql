@@ -24,6 +24,7 @@ SELECT * from animals;
 
 BEGIN;
 DELETE FROM animals;
+SELECT * FROM animals;
 ROLLBACK;
 SELECT * FROM animals;
 
