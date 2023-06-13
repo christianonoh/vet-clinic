@@ -29,6 +29,11 @@
 
 **Vet Clinic** project focuses on creating a relational database structure for a veterinary clinic. The project aims to improve operational efficiency, record-keeping, and patient care by facilitating easy data retrieval and seamless integration of clinic processes.
 
+## ER Diagram
+
+![Blank diagram](https://github.com/christianonoh/vet-clinic/assets/40442168/41b8ec04-6af5-4d89-9cd3-c94e2631ad4c)
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
